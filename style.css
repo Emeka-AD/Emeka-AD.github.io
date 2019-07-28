@@ -1,0 +1,10 @@
+.classynav, .nav-brand, .user-login-info, .formfont{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.hero-content-extended {
+    
+    width: 100px;
+    background-color:  rgb(226, 43, 134);
+
+}
